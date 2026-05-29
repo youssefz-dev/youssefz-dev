@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**youssefz-dev/youssefz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend development, systems programming, and scalable applications.
 
-Here are some ideas to get you started:
+I enjoy building backend systems, infrastructure, and developer-focused tools while continuously expanding my knowledge of DevOps, cloud technologies, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Backend Development
+* Systems Programming
+* Linux & Infrastructure
+* DevOps & Cloud Learning
+* Cybersecurity Enthusiast
+
+## Tech Stack
+
+**Languages**
+
+* C
+* C++
+* Python
+* JavaScript
+* TypeScript
+* PHP
+* Bash
+
+**Backend & Web**
+
+* Node.js
+* Express.js
+* NestJS
+* Laravel
+* React
+* REST APIs
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* MariaDB
+* MongoDB
+
+**Infrastructure**
+
+* Linux
+* Docker
+* Nginx
+
+## Featured Projects
+
+### ft_transcendence
+
+Real-time full-stack platform built with modern web technologies, authentication systems, APIs, and containerized deployment.
+
+### Webserv
+
+Custom HTTP/1.1 web server built in C++ focusing on networking, request processing, and scalable server architecture.
+
+### Inception
+
+Docker-based infrastructure project featuring service orchestration, networking, and Linux administration.
+
+### Minishell
+
+Unix shell implementation in C featuring process management, pipes, redirections, and signal handling.
+
+## Currently Learning
+
+* DevOps Practices
+* Cloud Infrastructure
+* CI/CD
+* Container Orchestration
+* Cybersecurity Fundamentals
+
+## Connect
+
+* LinkedIn: [https://www.linkedin.com/in/youssef-z-1b7305401/]
+* 
