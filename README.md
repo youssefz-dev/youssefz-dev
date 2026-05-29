@@ -54,7 +54,7 @@ Real-time full-stack platform built with modern web technologies, authentication
 
 ### Webserv
 
-Custom HTTP/1.1 web server built in C++ focusing on networking, request processing, and scalable server architecture.
+Custom HTTP/1.0 web server built in C++ focusing on networking, request processing, and scalable server architecture.
 
 ### Inception
 
@@ -75,4 +75,3 @@ Unix shell implementation in C featuring process management, pipes, redirections
 ## Connect
 
 * LinkedIn: [https://www.linkedin.com/in/youssef-z-1b7305401/]
-* 
