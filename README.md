@@ -48,7 +48,7 @@ I enjoy building backend systems, infrastructure, and developer-focused tools wh
 
 ## Featured Projects
 
-### ft_transcendence
+### Transcendence
 
 Real-time full-stack platform built with modern web technologies, authentication systems, APIs, and containerized deployment.
 
