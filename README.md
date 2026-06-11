@@ -1,8 +1,8 @@
-# Hi, I'm Youssef 👋
+# Hi, I'm Youssef
 
 Software Engineer focused on backend development, systems programming, and scalable applications.
 
-I enjoy building backend systems, infrastructure, and developer-focused tools while continuously expanding my knowledge of DevOps, cloud technologies, and cybersecurity.
+I enjoy building backend systems and infrastructure, while continuously expanding my knowledge of DevOps, cloud technologies, and cybersecurity.
 
 ## About Me
 
